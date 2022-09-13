@@ -1,5 +1,5 @@
-# hooli-popup
+# Memory-Pair-Game
 
-<p>It is homework project of the Kottans frontend course. Practice use HTML and CSS<p>
+<p>It is homework project of the Kottans frontend course.<p>
 
-[Demo](https://vladimirrutskiy.github.io/hooli-popup/)
+[Demo](https://vladimirrutskiy.github.io/Memory-Pair-Game/)
